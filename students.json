@@ -141,5 +141,29 @@
           "docs/витягЗнаказу.pdf"
         ],
         "photo": "images/ja.jpg"
+      },
+      {
+        "id": 1725683472724,
+        "name": "Роман Данилюк",
+        "age": "2024-09-25",
+        "class": "POLSKI",
+        "address": "Независимости15 /199",
+        "phone": "0675099283",
+        "email": "romanbp@ukr.net",
+        "notes": "",
+        "files": [
+          "docs/actNotarialniy.pdf",
+          "docs/GlebZP.pdf",
+          "docs/illyaZP.pdf",
+          "docs/olenaZP.pdf",
+          "docs/olenaZP.pdf",
+          "docs/peselOlena.pdf",
+          "docs/peselGlib.pdf",
+          "docs/glibMobivatel.jpg",
+          "docs/illiyaMobivatel.jpg",
+          "docs/OlenaMobivatel.jpg"
+
+        ],
+        "photo": "images/ja.jpg"
       }
   ]
